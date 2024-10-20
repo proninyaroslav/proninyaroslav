@@ -23,7 +23,7 @@ If you have problems with payment or you want to donate in another way, contact 
  - **Bitcoin**: `12isaLkH8nZ4DkFguVFeYrGHqQi7EEgUrM `
  - **USDT TRC20**: `TK79fzUYwRtmANuLjk1Zzhz3hjTaFQbxfg`
  - **Monero**: `48j4Mo7J7t51EeBf35Lpdmehmi9chUwzSXxHrnjpRJ6fPQafPWvSCdFafw3rA5ZRWievfYEDToNso8VppbJf2RVH9cdZmHa`
- - **PayPal**: [https://paypal.me/YaroslavPronin](https://paypal.me/YaroslavPronin)
+ - **PayPal**: [paypal.me/YaroslavPronin](https://paypal.me/YaroslavPronin)
  - **YooMoney (ЮMoney)**: `410011738561939`
  - **Patreon**: [patreon.com/YaroslavPronin](https://patreon.com/YaroslavPronin)
  - **Boosty**: [boosty.to/yaroslavpronin/donate](https://boosty.to/yaroslavpronin/donate)
